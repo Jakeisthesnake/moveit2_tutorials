@@ -60,7 +60,7 @@ Step 1: Launch the Demo and Configure the Plugin
 
   * Make sure the **Trajectory Topic** under **Planned Path** is set to ``/display_planned_path``.
 
-  * In **Planning Request**, change the **Planning Group** to ``manipulator``. You can also see this in the MotionPlanning panel in the bottom left.
+  * In **Planning Request**, change the **Planning Group** to ``panda_arm``. You can also see this in the MotionPlanning panel in the bottom left.
 
 
 .. image:: rviz_plugin_start.png
